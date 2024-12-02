@@ -1,3 +1,5 @@
+https://github.com/PabloGrzz/RecursoCompartidoSemaforo.git
+
 Descripción
 
 Este proyecto implementa un semáforo en Java que permite controlar el acceso concurrente a un bloque de código, asegurando que un número específico de hilos (X) puede acceder a dicho bloque al mismo tiempo. Este mecanismo es fundamental en entornos de programación concurrente donde se busca evitar condiciones de carrera y garantizar la integridad de los datos.
